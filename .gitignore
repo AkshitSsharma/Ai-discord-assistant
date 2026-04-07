@@ -1,0 +1,22 @@
+.env
+
+venv/
+env/
+.venv/
+
+memory_db/
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+
+audio_input.wav
+
+generated.png
+
+# 📦 Logs
+*.log
+
+# 💻 System files
+.DS_Store
+Thumbs.db
